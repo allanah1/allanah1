@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/allanah1?tab=repositories](https://github.com/allanah1?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@francis.allanah](https://medium.com/@francis.allanah)
+- 📝 I write article(s) on [https://medium.com/@francis.allanah](https://medium.com/@francis.allanah)
 
 - 💬 Ask me about **Python, tensorflow, PyQt, machine learning or AI in general.**
 
