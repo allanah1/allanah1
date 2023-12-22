@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francis Allanah</h1>
 <h3 align="center">A software engineer from Nigeria living in Canada. I currently work with python most of my days and PyQt framework.</h3>
 
-- 🔭 I’m currently working on [a Kaggle competition](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/overview/description)
-
 - 🌱 I’m currently learning **Microsoft Azure as a cloud platform**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
